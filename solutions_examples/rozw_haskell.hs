@@ -1,7 +1,7 @@
 import Data.List
 
 main = do
-    dane <- readFile "Dane/1.txt"
+    dane <- readFile "Dane/1.2024_moj_input.txt"
     let a = map (read . head . words) $ lines dane :: [Int]
         b = map (read . last . words) $ lines dane :: [Int]
     print "Rozwiazanie czesci pierwszej:"
