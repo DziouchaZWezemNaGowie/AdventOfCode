@@ -5,6 +5,7 @@
   Projekt ma na celu rozwijać nasze programistyczne umiejętności rozwiązując zadania z [Advent of Code](https://adventofcode.com/), omawiając ~co tydzień na żywo nasze rozwiązania (lub próby rozwiązań) zadań
 
 ## Jak dołączyć?
+  Dodajcie się do tabelki w pliku [`participants.md`](https://github.com/DziouchaZWezemNaGowie/AdventOfCode/blob/main/participants.md). Jak nie chcecie tam wpisywać swojego Discorda, to napiszcie do mnie (DziouchyZWężemNaGowie) na priv na GitHubie lub Discordzie, to dodam was do serwera na Discordzie bez ujawniania tych danych tutaj.
 
 ## Spotkania
   Będziemy się spotykać co tydzień w weekendy (dokładne terminy do ustalenia, co tydzień to wstępny rozkład, na pewno będą przerwy na święta, nowy rok itd.) i omawiać rozwiązania.
