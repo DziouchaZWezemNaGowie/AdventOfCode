@@ -8,7 +8,7 @@
 using namespace std;
 
 int main() {
-    ifstream dane("Dane/1.txt");
+    ifstream dane("Dane/1.2024_moj_input.txt");
     string line;
     vector<int> lewa, prawa;
     int x, y;
