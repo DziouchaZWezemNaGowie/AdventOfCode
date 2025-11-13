@@ -43,5 +43,7 @@ int main() {
     cout << podob << endl;
 
     dane.close();
+
+    return 0;
     
 }
