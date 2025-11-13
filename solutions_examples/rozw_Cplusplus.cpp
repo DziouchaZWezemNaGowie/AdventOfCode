@@ -32,7 +32,7 @@ int main() {
         odl += abs(lewa_sorted[i] - prawa_sorted[i]);
     }
 
-    cout << odl << endl;
+    cout << "Rozwiazanie czesci pierwszej: " << odl << endl;
 
     int podob = 0;
 
@@ -40,7 +40,7 @@ int main() {
         podob += lewa[i]*count(prawa.begin(), prawa.end(), lewa[i]);
     }
 
-    cout << podob << endl;
+    cout << "Rozwiazanie czesci drugiej: " << podob << endl;
 
     dane.close();
 
